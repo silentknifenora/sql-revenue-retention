@@ -23,7 +23,7 @@ Payment transactions
 
 User engagement metrics
 
-Business Objectives
+# Business Objectives
 
 Measure revenue concentration and cumulative contribution
 
@@ -33,7 +33,7 @@ Quantify revenue at risk from churned customers
 
 Compare revenue distribution across customer segments
 
-Tools & Technologies
+# Tools & Technologies
 
 MySQL
 
@@ -43,13 +43,13 @@ Cohort Analysis
 
 Revenue Segmentation
 
-Dataset Structure
+# Dataset Structure
 Table Name	Description
 customers	Demographics and signup data
 subscriptions	Plan details and churn indicators
 payments	Transaction-level revenue data
 customer_activity	Engagement and usage metrics
-Key Analyses Performed
+# Key Analyses Performed
 
 Revenue concentration and cumulative revenue distribution
 
@@ -61,7 +61,7 @@ Segment-level revenue contribution analysis
 
 Engagement-based churn risk evaluation
 
-Key Business Insights
+# Key Business Insights
 
 A small percentage of customers contribute a disproportionately large share of revenue → high concentration risk
 
@@ -71,7 +71,7 @@ Churned customers represent a measurable portion of historical revenue → finan
 
 Enterprise and Mid-Market segments generate the majority of revenue
 
-Business Impact
+# Business Impact
 
 This analysis provides a structured framework for:
 
@@ -83,15 +83,13 @@ Reducing long-term revenue dependency risk
 
 Supporting strategic revenue diversification decisions
 
-Visualizations
-
-
+# Visualizations
+(images/cohort_analysis.png)
 Monthly cohort retention rate per signup cohort
-
-
+(images/revenue_summary.png)
 Total revenue contribution per customer
 
-Skills Demonstrated
+# Skills Demonstrated
 
 End-to-end SQL analysis and database design
 
@@ -103,6 +101,6 @@ Revenue segmentation and financial exposure assessment
 
 Translating SQL insights into actionable business strategy
 
-Author
+# Author
 
 Neha Raut
