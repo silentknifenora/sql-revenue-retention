@@ -85,8 +85,11 @@ Supporting strategic revenue diversification decisions
 
 # Visualizations
 (images/cohort_analysis.png)
+
 Monthly cohort retention rate per signup cohort
+
 (images/revenue_summary.png)
+
 Total revenue contribution per customer
 
 # Skills Demonstrated
