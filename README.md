@@ -84,11 +84,11 @@ Reducing long-term revenue dependency risk
 Supporting strategic revenue diversification decisions
 
 # Visualizations
-(images/cohort_analysis.png)
+![cohort_analysis](images/cohort_analysis.png)
 
 Monthly cohort retention rate per signup cohort
 
-(images/revenue_summary.png)
+![revenue_summary](images/revenue_summary.png)
 
 Total revenue contribution per customer
 
